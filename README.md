@@ -28,7 +28,7 @@ Seborrheic keratosis is having the lowest distribution
 Pigmented Benign keratosis is having the highest distribution of data
 
 # -Special Mentions
-This project builds on concepts covered in the Upgrad course and live sessions, which provided a strong foundation in data science and machine learning.
+This project builds on concepts covered in the Upgrad course and live sessions, which provided a strong foundation in data science and machine learning.This project guidelines were briefed by coach Shivam Garg
 
 # -Contact
 Created by Nupur Jha [https://github.com/NupurJha-2794/-Melanoma-CNN-Prediction] — feel free to reach out!
